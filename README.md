@@ -76,3 +76,25 @@ These observations confirm an operational tunnel. They do not constitute a compl
 - File permissions
 - systemd service management
 - Troubleshooting using logs and connection statistics
+
+## Screenshots
+
+### Server Configuration
+
+WireGuard configuration, restricted file permissions, IPv4 forwarding, and transition to systemd service management.
+
+![WireGuard server configuration](server-configuration.png)
+
+### VPN Service Status
+
+The WireGuard service is enabled for automatic startup and reports a successful execution.
+
+![WireGuard service status](service-status.png)
+
+*Identifying details have been redacted. Commands and results remain unchanged.*
+
+### iOS Client Connection
+
+The iPhone client shows a recent WireGuard handshake and sent/received traffic, confirming an operational VPN tunnel.
+
+![WireGuard connection on iPhone](ios-client.jpeg)
