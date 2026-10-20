@@ -97,4 +97,4 @@ The WireGuard service is enabled for automatic startup and reports a successful 
 
 The iPhone client shows a recent WireGuard handshake and sent/received traffic, confirming an operational VPN tunnel.
 
-![WireGuard connection on iPhone](ios-client.jpeg)
+![WireGuard connection on iPhone](IOS-client.jpeg)
